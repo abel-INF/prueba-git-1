@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "herramientas-26"
+assignment: "introduccion-a-git"
+owner:
+  username: "abel-INF"
+  id: 323805326
+  accepted_at: "2026-09-05T12:57:55Z"
+source:
+  owner: "TDHclassroom"
+  owner_id: 219900396
+  repo: "git-basic"
+  branch: "main"
